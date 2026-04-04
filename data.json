@@ -1,0 +1,62 @@
+[
+  {
+    "text": "แม่ไปเยกับหมามาเหรอถึงออกลูกมาเป็นแบบนี้",
+    "label": "abusive"
+  },
+  {
+    "text": "ไอ้โง่ ทำไมโง่แบบนี้",
+    "label": "abusive"
+  },
+  {
+    "text": "หน้าตาอย่างกับศพ",
+    "label": "abusive"
+  },
+  {
+    "text": "งานนี้ยังต้องปรับปรุงอีกเยอะนะ",
+    "label": "criticism"
+  },
+  {
+    "text": "เก่งจังเลย",
+    "label": "neutral"
+  },
+  {
+    "text": "ควรตรวจสอบข้อมูลให้ดีกว่านี้นะครับ",
+    "label": "criticism"
+  },
+  {
+    "text": "วันนี้อากาศดีจัง",
+    "label": "neutral"
+  },
+  {
+    "text": "ไปกินข้าวกันไหม",
+    "label": "neutral"
+  },
+  {
+    "text": "ควย",
+    "label": "abusive"
+  },
+  {
+    "text": "แม่เย็ด",
+    "label": "criticism"
+  },
+  {
+    "text": "แม่",
+    "label": "neutral"
+  },
+  {
+    "text": "พ่อ",
+    "label": "neutral"
+  },
+  {
+    "text": "พ่อมึงตาย",
+    "label": "criticism"
+  },
+  {
+    "text": "หี",
+    "label": "criticism"
+  },
+  {
+    "text": "กด",
+    "label": "neutral"
+  }
+]
